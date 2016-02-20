@@ -7,6 +7,20 @@
   padding: 0 0 0.5em;
 }
 
+.templates {
+  text-align: center;
+}
+
+.templates img {
+  width: 70%;
+}
+
+.templates a {
+  width: 50%auto;
+  text-align: center;
+  margin: auto;
+}
+
 .menu:before {
   content: "[";
 }
