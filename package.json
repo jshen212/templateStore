@@ -38,5 +38,6 @@
   },
   "homepage": "https://github.com/angular/angular-seed#readme",
   "main": "karma.conf.js",
-  "author": ""
+  "author": "",
+  "dependencies": {}
 }
