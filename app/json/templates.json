@@ -1,0 +1,116 @@
+[{
+  "id" : 1,
+  "name": "Blue Theme",
+  "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ex quibusdam vitae nam.",
+  "type": "html5",
+  "price": 19.99,
+  "images": [
+    {
+      "name": "blue.jpg"
+    }
+  ]
+},
+
+{
+  "id" : 2,
+  "name": "Green Theme",
+  "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quibusdam aut ipsam totam. Fuga, tempora, excepturi.",
+  "type": "html5",
+  "price": 10.99,
+  "images": [
+    {
+      "name": "green.jpg"
+    }
+  ]
+},
+
+{
+  "id" : 3,
+  "name": "Purple Theme",
+  "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quasi autem sapiente, inventore nemo iusto mollitia alias sint laboriosam..",
+  "type": "html5",
+  "price": 14.99,
+  "images": [
+    {
+      "name": "purple.jpg"
+    }
+  ]
+},
+
+{
+  "id" : 4,
+  "name": "Orange Theme",
+  "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quis, rem tenetur vitae ea laudantium optio sequi voluptatum cumque explicabo facilis eligendi beatae, dolorem velit dolores. Quas obcaecati sapiente beatae, repellendus!10",
+  "type": "html5",
+  "price": 5.99,
+  "images": [
+    {
+      "name": "orange.jpg"
+    }
+  ]
+},
+
+{
+  "id" : 5,
+  "name": "Pink Theme",
+  "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ratione officia nemo, eius at!",
+  "type": "html5",
+  "price": 8.99,
+  "images": [
+    {
+      "name": "pink.jpg"
+    }
+  ]
+},
+
+{
+  "id" : 6,
+  "name": "Red Theme",
+  "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Magnam.",
+  "type": "html5",
+  "price": 13.99,
+  "images": [
+    {
+      "name": "red.jpg"
+    }
+  ]
+},
+
+{
+  "id" : 7,
+  "name": "White Theme",
+  "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Facilis, cupiditate..",
+  "type": "html5",
+  "price": 19.99,
+  "images": [
+    {
+      "name": "white.jpg"
+    }
+  ]
+},
+
+{
+  "id" : 8,
+  "name": "Yellow Theme",
+  "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Facilis, cupiditate..",
+  "type": "html5",
+  "price": 11.99,
+  "images": [
+    {
+      "name": "yellow.jpg"
+    }
+  ]
+},
+
+{
+  "id" : 9,
+  "name": "Grey Theme",
+  "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Facilis, cupiditate..",
+  "type": "html5",
+  "price": 11.99,
+  "images": [
+    {
+      "name": "grey.jpg"
+    }
+  ]
+}]
