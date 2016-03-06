@@ -19,7 +19,6 @@ angular.module('templateStore.templates', ['ngRoute'])
 
 .controller('TemplatesCtrl', ['$scope', '$http', function($scope, $http){
   $http.get('json/templates.json').success(function(data){
-    console.log('SUCCESS', data);
     $scope.templates = data;
   });
 }])
