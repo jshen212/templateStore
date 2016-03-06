@@ -10,5 +10,5 @@ angular.module('templateStore.view1', ['ngRoute'])
 }])
 
 .controller('View1Ctrl', [function() {
-
+  
 }]);

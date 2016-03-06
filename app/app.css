@@ -11,8 +11,14 @@
   text-align: center;
 }
 
+.templateRow {
+  float: right;
+  height: 450px;
+}
+
 .templates img {
   width: 70%;
+  height: 250px;
 }
 
 .templates a {
